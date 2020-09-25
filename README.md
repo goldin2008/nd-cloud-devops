@@ -21,3 +21,9 @@
 
 https://towardsdatascience.com/data-science-for-startups-containers-d1d785bfe5b
 
+Terminal running docker：
+```
+Find the process using port 8080: sudo lsof -i:8080
+
+Kill it: kill XXXX
+```
