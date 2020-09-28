@@ -92,7 +92,7 @@ source ~/.devops/bin/activate
 ---
 
 ### References
-'''
+
 > https://github.com/StephanStu/Operationalization-of-a-Machine-Learning-Microservice-API
 
 > https://github.com/henokhm/udacity-cloud-devops-project-4
@@ -104,4 +104,11 @@ source ~/.devops/bin/activate
 > https://github.com/Sarony11/Udacity-DevOps-Project5
 
 > https://github.com/trajkd/project-ml-microservice-kubernetes/blob/master/README.md
-'''
+
+> https://github.com/Adriks976/udacity-Project4
+
+> https://github.com/thepembeweb/proj-ml-microservice-kubernetes
+
+> https://github.com/obinkytt/Udacity_Microservices_Project
+
+> https://github.com/JoseBerrocal/udacity_project-ml-microservice-kubernetes
