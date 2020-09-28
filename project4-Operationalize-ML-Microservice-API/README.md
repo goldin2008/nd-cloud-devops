@@ -88,3 +88,20 @@ source ~/.devops/bin/activate
 ### Kubernetes Clean Up
 - `kubectl delete deployment.apps/development`
 - `kubectl delete svc development`
+
+---
+
+### References
+'''
+> https://github.com/StephanStu/Operationalization-of-a-Machine-Learning-Microservice-API
+
+> https://github.com/henokhm/udacity-cloud-devops-project-4
+
+> https://github.com/DavidBertrand/udacity-project-ml-microservice-kubernetes
+
+> https://github.com/kickertw/UdacityDevOpsProj5
+
+> https://github.com/Sarony11/Udacity-DevOps-Project5
+
+> https://github.com/trajkd/project-ml-microservice-kubernetes/blob/master/README.md
+'''
