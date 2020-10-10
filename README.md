@@ -1,5 +1,8 @@
 # Cloud DevOps Nanodegree Program
 
+> https://github.com/kirkbrunson/Devops-Notes
+
+
 ### Project 1: Data Modeling with Postgres
 
 
