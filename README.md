@@ -3,22 +3,25 @@
 > https://github.com/kirkbrunson/Devops-Notes
 
 
-### Project 1: Data Modeling with Postgres
+### Project 1: Deploy Static Website on AWS
+Create and configure the S3 bucket for website hosting and secure it using IAM policies and then deploy a website using AWS's CDN, CloudFront.
 
 
-### Project 2: Data Modeling with Apache Cassandra
+### Project 2: Deploy a high-availability web app using CloudFormation
+Deployment of infrastructure using Infrastructure as code by writing CloudFormation scripts to deploy a highly available web app.
 
 
-### Project 3: Data Warehouse
+### Project 3: Jenkins CI/CD Pipelines on AWS
+Configure and setup Jenkins on EC2 instance, and create a pipeline to deploy a static website on S3 with automated testing, monitoring and logging.
 
 
-### Project 4: Data Lake
+### Project 4: Operationalize a Machine Learning Microservice API
+Operationalizing microservices by deploying an elastic and fault-tolerant Machine Learning inference API (Flask app) using Kubernetes.
 
 
-### Project 5: Data Pipelines
+### Project 5: Capstone
+Create a CI/CD pipeline using Jenkins for a web app that deploys to a cluster in AWS EKS with rolling deployment.
 
-
-### Capstone Project
 
 ## Data Science in Production
 
