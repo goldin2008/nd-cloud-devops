@@ -2,6 +2,8 @@
 
 > https://github.com/kirkbrunson/Devops-Notes
 
+> https://github.com/nilaychauhan/Cloud-Devops
+
 
 ### Project 1: Deploy Static Website on AWS
 Create and configure the S3 bucket for website hosting and secure it using IAM policies and then deploy a website using AWS's CDN, CloudFront.
